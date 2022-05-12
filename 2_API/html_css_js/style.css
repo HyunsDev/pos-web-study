@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#square {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+}
